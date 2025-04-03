@@ -1,7 +1,10 @@
 # ChatBat
 
 Zero 是一個使用 Windows 批次檔（Batch）編寫的簡易聊天機器人，能夠根據使用者輸入的關鍵字回應對話。
+
+
 ![AI GIF](gif/ai.gif)
+
 
 ## 功能
 - 根據關鍵字匹配對話內容。
