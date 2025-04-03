@@ -35,6 +35,6 @@ Zero 是一個使用 Windows 批次檔（Batch）編寫的簡易聊天機器人�
 - 這個程式是在國中時期編寫，僅作為娛樂用途。
 - 批次檔的運行依賴於 Windows 環境，另有編譯過後的執行檔在Package。
 
-![AI2 GIF](gif/ai mf.gif)
+![AI2 GIF](gif/ai%20mf.gif)
 
 
